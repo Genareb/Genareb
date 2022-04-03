@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sergey and i'm from Ukraine. I have a 10 years expirence in creating and developing E-coommrce projects like a CEO.
+- 👀 I’m interested in web desighn, making software and applications. 
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate with mentors for Java learning.
+- 📫 My WhatsApp +380965961651. E-mail: katapulta13@gmail.com
